@@ -46,8 +46,5 @@ const pratham = buildDeveloper("Pratham");
 console.log("Building. Failing. Improving. Repeating.");
 
 ```
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham23003&show_icons=true&theme=tokyonight" />
-</div>
 
 <img src="https://komarev.com/ghpvc/?username=Pratham23003&style=flat-square&color=6366f1" />
