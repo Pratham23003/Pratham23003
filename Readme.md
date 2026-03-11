@@ -12,7 +12,6 @@
 - Learning Full Stack Development 
 - Currently learning React
 - I enjoy building real-world projects
-- Night-time builder (best ideas after 11 PM)
 
 </br>
 
