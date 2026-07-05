@@ -1,16 +1,10 @@
 # Hi 👋 I'm Pratham
 
-<div align="center">
-<img height="250" width="500" alt="Coding Animation" align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-</div>
-
-</br>
-
 # About Me 💬
 
 - 3rd Year IT Undergrad
 - Learning Full Stack Development 
-- Currently learning React
+- Currently learning Backend Development
 - I enjoy building real-world projects
 
 </br>
